@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shreyash-kamble
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me ...
 
 <!---
 shreyash-kamble/shreyash-kamble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
